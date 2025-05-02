@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Sayedessamsayed@gmail.com**
 
-- 📄 Know about my experiences [Sayed Essam CV.pdf](Sayed Essam CV.pdf)
+- 📄 Know about my experiences [Sayed Essam CV](Sayed Essam CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,8 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedessam7&show_icons=true&locale=en&layout=compact" alt="sayedessam7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedessam7&" alt="sayedessam7" /></p>height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedessam7&show_icons=true&locale=en&layout=compact" alt="sayedessam7" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedessam7&" alt="sayedessam7" /></p>
+
