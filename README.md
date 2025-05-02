@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Sayedessamsayed@gmail.com**
 
-- 📄 Know about my experiences [Sayed Essam CV](Sayed Essam CV)
+- 📄 Know about my experiences <a href="https://github.com/SayedEssam7/SayedEssam7/blob/main/Sayed%20Essam%20CV.pdf" target="blank">SAYED ESSAM.CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
