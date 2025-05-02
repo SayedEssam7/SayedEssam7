@@ -18,6 +18,9 @@
 <p align="left"> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
  </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.svgrepo.com/show/354427/tableau.svg" alt="tableau" width="40" height="40"/>
+</a>
 <a href="https://apps.powerapps.com/" target="_blank" rel="noreferrer">
      <img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" alt="powerapps" width="40" height="40"/>
 </a>
