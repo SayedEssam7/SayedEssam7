@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm SAYED ESSAM SAYED</h1>
-<h3 align="center">SENIOR DATA ANALYST</h3>
+<h3 align="center">Senior Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedessam7&label=Profile%20views&color=0e75b6&style=flat" alt="sayedessam7" /> </p>
 
