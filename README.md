@@ -15,12 +15,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="60" height="60"/>
- </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
      <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="60" height="60"/>
 </a>
+     <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+     <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1200?cb=20200213050332" alt="powerbi" width="60" height="60"/>
+ </a>
+
 <a href="https://apps.powerapps.com/" target="_blank" rel="noreferrer">
      <img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" alt="powerapps" width="60" height="60"/>
 </a>
